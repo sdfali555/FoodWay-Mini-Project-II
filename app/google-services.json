@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "208388847469",
+    "project_id": "foodway-6eb9c",
+    "storage_bucket": "foodway-6eb9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208388847469:android:cb36a3b7270c7daaaf0c64",
+        "android_client_info": {
+          "package_name": "com.android.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208388847469-63tsnnu5knc3r0cjt038gjrqeman01a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.foodorderapp",
+            "certificate_hash": "9428862e71664850aa9ec6aad9d9e68dcc9486fa"
+          }
+        },
+        {
+          "client_id": "208388847469-2sgtp9dn9712so7cdb59jgr0g2graob5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG55KLgvVQMMwThuefo0VOw85tzfwcMZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208388847469-2sgtp9dn9712so7cdb59jgr0g2graob5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
